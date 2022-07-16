@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# React Weather App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Used APIs
+- [GeoDB Cities](http://localhost:3000)
+- [Open Weather](http://localhost:3000)
+
+
+## User Libraries
+- [react](http://localhost:3000)
+- [react-accessible-accordion](http://localhost:3000)
+- [react-select-async-paginate](http://localhost:3000)
+
 
 ## Available Scripts
 
