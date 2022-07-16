@@ -2,3 +2,9 @@
     max-width: 1080px;
     margin: 20px auto;
 }
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
