@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 [//]: # (![Image]&#40;&#41;)
-<img src="img/whole-project.jpg" width="600" style="display: block; margin: 0 auto">
+<img src="img/whole-project.jpg" width="600" style="margin: 0 auto">
 
 ## Application 
 [Demo of application](https://react-weather-app-ba8e6.web.app/)
@@ -30,7 +30,7 @@ This application contains a search component with auto-complete.
 You can find a desired city and the application will present a current weather state.
 
 
-<img src="img/current-weather.jpg" width="500" style="display: block; margin: 0 auto">
+<img src="img/current-weather.jpg" width="500" style="margin: 0 auto">
 
 
 Also, it presents a forecast for the next 7 days with additional information that can be expanded by clicking on one of the days.
