@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 [//]: # (![Image]&#40;&#41;)
-<img src="img/whole-project.jpg" width="600" style="display: block; margin: 0 auto">
+<img src="img/whole-project.jpg" width="600" style="display: block; margin: auto; align-self: center; align-items: center">
 
 ## Application 
 [Demo of application](https://react-weather-app-ba8e6.web.app/)
