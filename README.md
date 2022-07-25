@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Image](img/whole-project.jpg)
+
+## Application 
+[Demo of application](https://react-weather-app-ba8e6.web.app/)
+
 ## Used APIs
 - [GeoDB Cities](http://localhost:3000)
 - [Open Weather](http://localhost:3000)
@@ -11,11 +16,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [react](http://localhost:3000)
 - [react-accessible-accordion](http://localhost:3000)
 - [react-select-async-paginate](http://localhost:3000)
+- [tailwind css](https://tailwindcss.com/docs/guides/create-react-app)
+- [firebase](https://console.firebase.google.com/)
 
 
-## Available Scripts
+## Quick Description
 
-In the project directory, you can run:
+This application contains a search component with auto-complete. 
+
+![Image](img/search-bar-img.jpg)
+
+You can find a desired city and the application will present a current weather state.
+
+![Image](img/current-weather.jpg)
+
+Also, it presents a forecast for the next 7 days with additional information that can be expanded by clicking on one of the days.
+
+![Image](img/forecast.jpg)
 
 ### `npm start`
 
